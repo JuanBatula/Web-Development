@@ -29,5 +29,5 @@
     width: 100px;
     height: 100px;
     padding:10px;
-    transform: skew(10deg,10deg);
+    transform: skew(-10deg,-10deg);
   }
